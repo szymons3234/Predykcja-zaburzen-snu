@@ -41,13 +41,17 @@ Wyniki: Model osiągnął dobrą skuteczność, jednak wykazywał pewne rozbież
 2. Random Forest Classifier
 Dokładność modelu: 89,3%
 Wyniki: Model losowego lasu przewyższył klasyfikator drzewa decyzyjnego, osiągając lepsze wyniki w zakresie precyzji i ogólnej dokładności.
+
 Wnioski
 Model Random Forest jest bardziej niezawodny w przewidywaniu zaburzeń snu w oparciu o dostępne dane.
 Czynniki takie jak zawód, BMI oraz jakość snu są kluczowe w określaniu prawdopodobieństwa wystąpienia zaburzeń snu.
+
 Instrukcja Użycia
+
 Upewnij się, że masz zainstalowane niezbędne biblioteki: pandas, numpy, seaborn, matplotlib, sklearn.
 Wczytaj zestaw danych (Sleep_health_and_lifestyle_dataset.csv) i wykonaj wstępne przetwarzanie danych zgodnie z przedstawionym kodem.
 Wytrenuj modele (Decision Tree oraz Random Forest) i przeprowadź ich ewaluację.
 Eksperymentuj z parametrami modeli, aby poprawić ich skuteczność.
+
 Autor:
 Projekt stworzony jako przykład wykorzystania technik uczenia maszynowego do analizy danych medycznych i stylu życia.
