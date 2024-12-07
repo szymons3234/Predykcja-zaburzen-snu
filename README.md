@@ -48,10 +48,10 @@ Czynniki takie jak zawód, BMI oraz jakość snu są kluczowe w określaniu praw
 
 Instrukcja Użycia
 
-Upewnij się, że masz zainstalowane niezbędne biblioteki: pandas, numpy, seaborn, matplotlib, sklearn.
-Wczytaj zestaw danych (Sleep_health_and_lifestyle_dataset.csv) i wykonaj wstępne przetwarzanie danych zgodnie z przedstawionym kodem.
-Wytrenuj modele (Decision Tree oraz Random Forest) i przeprowadź ich ewaluację.
-Eksperymentuj z parametrami modeli, aby poprawić ich skuteczność.
+1. Upewnij się, że masz zainstalowane niezbędne biblioteki: pandas, numpy, seaborn, matplotlib, sklearn.
+2. Wczytaj zestaw danych (Sleep_health_and_lifestyle_dataset.csv) i wykonaj wstępne przetwarzanie danych zgodnie z przedstawionym kodem.
+3. Wytrenuj modele (Decision Tree oraz Random Forest) i przeprowadź ich ewaluację.
+4. Eksperymentuj z parametrami modeli, aby poprawić ich skuteczność.
 
 Autor:
 Projekt stworzony jako przykład wykorzystania technik uczenia maszynowego do analizy danych medycznych i stylu życia.
