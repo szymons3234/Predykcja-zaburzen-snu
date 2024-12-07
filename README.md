@@ -1,4 +1,5 @@
 Predykcja Zaburzeń Snu
+
 Celem tego projektu jest analiza danych związanych ze stylem życia i zmiennych medycznych, takich jak wiek, BMI, aktywność fizyczna, czas trwania snu, ciśnienie krwi i inne, w celu przewidzenia występowania zaburzeń snu oraz ich rodzaju.
 
 Zestaw Danych
