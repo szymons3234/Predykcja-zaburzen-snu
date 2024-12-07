@@ -3,14 +3,19 @@ Predykcja Zaburzeń Snu
 Celem tego projektu jest analiza danych związanych ze stylem życia i zmiennych medycznych, takich jak wiek, BMI, aktywność fizyczna, czas trwania snu, ciśnienie krwi i inne, w celu przewidzenia występowania zaburzeń snu oraz ich rodzaju.
 
 Zestaw Danych
+
 Projekt wykorzystuje zestaw danych Sleep Health and Lifestyle, który zawiera 374 wiersze i 13 kolumn, obejmując szeroki zakres zmiennych związanych ze snem i nawykami życiowymi.
 
 Główne cechy zestawu danych:
 
 Dane o śnie: Czas trwania, jakość snu i inne czynniki wpływające na jego wzorce.
+
 Styl życia: Poziom aktywności fizycznej, poziom stresu oraz BMI.
+
 Zdrowie sercowo-naczyniowe: Pomiary ciśnienia krwi i tętna.
+
 Zaburzenia snu: Informacje o braku zaburzeń, bezsenności oraz bezdechu sennym.
+
 Wyjaśnienie wartości w kolumnie Sleep Disorder:
   None: Brak zaburzeń snu.
   Insomnia: Problemy z zasypianiem lub utrzymaniem snu.
@@ -29,11 +34,15 @@ Zawód oraz BMI mają znaczący wpływ na występowanie zaburzeń snu. Pielęgni
 Analiza korelacji między zmiennymi:
 
 Silne zależności wykazano między BMI a występowaniem zaburzeń snu.
+
 Przetwarzanie Danych
+
 Brakujące wartości w kolumnie Sleep Disorder zostały uzupełnione jako None.
 Zmienne kategoryczne, takie jak płeć czy zawód, zakodowano za pomocą Label Encoding.
 Ciśnienie krwi rozdzielono na skurczowe i rozkurczowe, aby ułatwić dalszą analizę.
+
 Budowa Modelu
+
 W projekcie wykorzystano dwa algorytmy klasyfikacyjne do przewidywania zaburzeń snu:
 
 1. Decision Tree Classifier
