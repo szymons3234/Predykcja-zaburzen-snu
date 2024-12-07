@@ -8,6 +8,9 @@ Celem tego projektu jest analiza danych związanych ze stylem życia i zmiennymi
 
 Projekt wykorzystuje zestaw danych **Sleep Health and Lifestyle**, który zawiera 374 wiersze i 13 kolumn, obejmując szeroki zakres zmiennych związanych ze snem i nawykami życiowymi.  
 
+![image](https://github.com/user-attachments/assets/07c2ac60-2beb-40d3-b2ec-099233282d0a)
+
+
 ### Główne cechy zestawu danych:
 - **Dane o śnie**: Czas trwania, jakość snu i inne czynniki wpływające na jego wzorce.
 - **Styl życia**: Poziom aktywności fizycznej, poziom stresu oraz BMI.
@@ -18,8 +21,6 @@ Projekt wykorzystuje zestaw danych **Sleep Health and Lifestyle**, który zawier
 - `None`: Brak zaburzeń snu.
 - `Insomnia`: Problemy z zasypianiem lub utrzymaniem snu.
 - `Sleep Apnea`: Przerwy w oddychaniu podczas snu.
-
-![Uploading image.png…]()
 
 
 ## Eksploracja Danych (EDA)
